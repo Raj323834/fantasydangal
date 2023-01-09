@@ -1,0 +1,20 @@
+[29-Jul-2021 14:54:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/fant2891/public_html/wp-content/themes/pearl/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-content/themes/pearl/index.php on line 1
+[29-Jul-2021 14:54:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/fant2891/public_html/wp-content/themes/pearl/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-content/themes/pearl/index.php on line 1
+[29-Jul-2021 16:03:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/fant2891/public_html/wp-content/themes/pearl/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-content/themes/pearl/index.php on line 1
+[22-Apr-2022 14:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pearl_404_style() in /home/fant2891/public_html/wp-content/themes/pearl/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-content/themes/pearl/404.php on line 2
+[23-Apr-2022 18:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pearl_404_style() in /home/fant2891/public_html/wp-content/themes/pearl/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-content/themes/pearl/404.php on line 2

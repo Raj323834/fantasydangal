@@ -1,0 +1,15 @@
+User-agent: *
+Sitemap: https://fantasydangal.com/sitemap_index.xml
+Sitemap: https://fantasydangal.com/post-sitemap.xml
+Sitemap: https://fantasydangal.com/sitemap.xml
+Allow: /
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /projects/
+Disallow: /sidebars/
+Disallow: /testimonials/
+Disallow: /category/
+Disallow: /cricket
+Disallow: /category/all
+Disallow: /sample-page
+Disallow: /tag

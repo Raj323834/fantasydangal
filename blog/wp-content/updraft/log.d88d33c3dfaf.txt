@@ -1,0 +1,344 @@
+0000.000 (0) Opened log file at time: Tue, 09 Mar 2021 05:41:14 +0000 on https://fantasydangal.com/demo
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.4.15 (cgi-fcgi, Linux server1.rootdnsserver.com 3.10.0-962.3.2.lve1.5.42.el7.x86_64 #1 SMP Mon Nov 9 08:11:18 EST 2020 x86_64) MySQL: 10.3.28-MariaDB WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.1M | 58.5M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.031 (0) Free space on disk containing Updraft's temporary directory: 209027.8 MB
+0000.034 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.035 (0) Semaphore (fd, wpvv_options) being initialised
+0000.037 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.039 (0) Set semaphore last lock (fd) time to 2021-03-09 05:41:14
+0000.040 (0) Semaphore lock (fd) complete
+0000.042 (0) Backup run: resumption=0, nonce=d88d33c3dfaf, file_nonce=d88d33c3dfaf begun at=1615268474 (0s ago), job type=backup
+0000.043 (0) Scheduling a resumption (1) after 300 seconds (1615268774) in case this run gets aborted
+0000.055 (0) Checking if we have a zip executable available
+0000.056 (0) Testing: /usr/bin/zip
+0000.062 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.064 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.065 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.065 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.066 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.073 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.074 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.080 (0) Working binary zip found: /usr/bin/zip
+0000.081 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.082 (0) Creation of backups of directories: beginning
+0000.084 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.783 (0) Total entities for the zip file: 1300 directories, 7781 files (0 skipped as non-modified), 96.3 MB
+0000.787 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.790 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.793 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.796 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.799 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.801 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.804 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.807 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.810 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.813 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.813 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.9 MB, 7781 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0022.306 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: size is now: 8.40 MB
+0022.310 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1100 files added (on-disk size: 8574.6 KB)
+0022.314 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1200 files added (on-disk size: 8574.6 KB)
+0022.317 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1300 files added (on-disk size: 8574.6 KB)
+0022.320 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1400 files added (on-disk size: 8574.6 KB)
+0022.323 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1500 files added (on-disk size: 8574.6 KB)
+0022.326 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1600 files added (on-disk size: 8574.6 KB)
+0022.330 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1700 files added (on-disk size: 8574.6 KB)
+0022.333 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1800 files added (on-disk size: 8574.6 KB)
+0022.336 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 1900 files added (on-disk size: 8574.6 KB)
+0022.339 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2000 files added (on-disk size: 8574.6 KB)
+0022.340 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (23.5 MB, 7781 files batched, 1001 (2002) added so far); re-opening (prior size: 8574.6 KB)
+0049.294 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: size is now: 15.30 MB
+0049.298 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2100 files added (on-disk size: 15717.1 KB)
+0049.301 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2200 files added (on-disk size: 15717.1 KB)
+0049.305 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2300 files added (on-disk size: 15717.1 KB)
+0049.308 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2400 files added (on-disk size: 15717.1 KB)
+0049.311 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2500 files added (on-disk size: 15717.1 KB)
+0049.314 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2600 files added (on-disk size: 15717.1 KB)
+0049.317 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2700 files added (on-disk size: 15717.1 KB)
+0049.321 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2800 files added (on-disk size: 15717.1 KB)
+0049.324 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 2900 files added (on-disk size: 15717.1 KB)
+0049.327 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3000 files added (on-disk size: 15717.1 KB)
+0049.327 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.7 MB, 7781 files batched, 1001 (3003) added so far); re-opening (prior size: 15717.1 KB)
+0072.402 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3100 files added (on-disk size: 17713.6 KB)
+0072.487 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3200 files added (on-disk size: 17713.6 KB)
+0072.492 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3300 files added (on-disk size: 17713.6 KB)
+0072.497 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3400 files added (on-disk size: 17713.6 KB)
+0072.502 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3500 files added (on-disk size: 17713.6 KB)
+0072.585 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3600 files added (on-disk size: 17713.6 KB)
+0072.588 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3700 files added (on-disk size: 17713.6 KB)
+0072.592 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3800 files added (on-disk size: 17713.6 KB)
+0072.595 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 3900 files added (on-disk size: 17713.6 KB)
+0072.598 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4000 files added (on-disk size: 17713.6 KB)
+0072.599 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3.1 MB, 7781 files batched, 1001 (4004) added so far); re-opening (prior size: 17713.6 KB)
+0091.488 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4100 files added (on-disk size: 18958.9 KB)
+0091.587 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4200 files added (on-disk size: 18958.9 KB)
+0091.592 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4300 files added (on-disk size: 18958.9 KB)
+0091.597 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4400 files added (on-disk size: 18958.9 KB)
+0091.686 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4500 files added (on-disk size: 18958.9 KB)
+0091.692 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4600 files added (on-disk size: 18958.9 KB)
+0091.697 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4700 files added (on-disk size: 18958.9 KB)
+0091.789 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4800 files added (on-disk size: 18958.9 KB)
+0091.794 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 4900 files added (on-disk size: 18958.9 KB)
+0091.799 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5000 files added (on-disk size: 18958.9 KB)
+0091.800 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.6 MB, 7781 files batched, 1001 (5005) added so far); re-opening (prior size: 18958.9 KB)
+0119.615 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: size is now: 25.40 MB
+0119.688 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5100 files added (on-disk size: 25983.8 KB)
+0119.691 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5200 files added (on-disk size: 25983.8 KB)
+0119.694 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5300 files added (on-disk size: 25983.8 KB)
+0119.697 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5400 files added (on-disk size: 25983.8 KB)
+0119.701 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5500 files added (on-disk size: 25983.8 KB)
+0119.704 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5600 files added (on-disk size: 25983.8 KB)
+0119.707 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5700 files added (on-disk size: 25983.8 KB)
+0119.710 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5800 files added (on-disk size: 25983.8 KB)
+0119.713 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 5900 files added (on-disk size: 25983.8 KB)
+0119.717 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6000 files added (on-disk size: 25983.8 KB)
+0119.718 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8 MB, 7781 files batched, 1001 (6006) added so far); re-opening (prior size: 25983.8 KB)
+0151.867 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6100 files added (on-disk size: 28671.5 KB)
+0151.871 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6200 files added (on-disk size: 28671.5 KB)
+0151.888 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6300 files added (on-disk size: 28671.5 KB)
+0151.891 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6400 files added (on-disk size: 28671.5 KB)
+0151.894 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6500 files added (on-disk size: 28671.5 KB)
+0151.898 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6600 files added (on-disk size: 28671.5 KB)
+0151.901 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6700 files added (on-disk size: 28671.5 KB)
+0151.986 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6800 files added (on-disk size: 28671.5 KB)
+0151.990 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 6900 files added (on-disk size: 28671.5 KB)
+0151.996 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7000 files added (on-disk size: 28671.5 KB)
+0151.997 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.5 MB, 7781 files batched, 1001 (7007) added so far); re-opening (prior size: 28671.5 KB)
+0192.117 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7100 files added (on-disk size: 31098.4 KB)
+0192.120 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7200 files added (on-disk size: 31098.4 KB)
+0192.124 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7300 files added (on-disk size: 31098.4 KB)
+0192.127 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7400 files added (on-disk size: 31098.4 KB)
+0192.130 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7500 files added (on-disk size: 31098.4 KB)
+0192.133 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7600 files added (on-disk size: 31098.4 KB)
+0192.136 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip.tmp: 7700 files added (on-disk size: 31098.4 KB)
+0236.409 (0) Created plugins zip (0) - 35847.6 KB in 236.3 s (151.7 KB/s) (sha1: dace3f9eeedf4f1d46f16b3a7cf973d79b86557f, sha256: 8891745da4cba2696fb9016e18d2edaedafd9467f9c0b385aad5377372877989)
+0236.411 (0) Beginning creation of dump of themes (split every: 400 MB)
+0236.887 (0) Total entities for the zip file: 637 directories, 2683 files (0 skipped as non-modified), 32.7 MB
+0236.891 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0236.894 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0236.897 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0236.900 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0236.904 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0236.907 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0236.910 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0236.913 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0236.916 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0236.919 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0236.920 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.5 MB, 2683 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0247.737 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: size is now: 6.00 MB
+0247.741 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1100 files added (on-disk size: 6121.7 KB)
+0247.744 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1200 files added (on-disk size: 6121.7 KB)
+0247.747 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1300 files added (on-disk size: 6121.7 KB)
+0247.751 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1400 files added (on-disk size: 6121.7 KB)
+0247.754 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1500 files added (on-disk size: 6121.7 KB)
+0247.757 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1600 files added (on-disk size: 6121.7 KB)
+0247.786 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1700 files added (on-disk size: 6121.7 KB)
+0247.789 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1800 files added (on-disk size: 6121.7 KB)
+0247.792 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 1900 files added (on-disk size: 6121.7 KB)
+0247.795 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2000 files added (on-disk size: 6121.7 KB)
+0247.796 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13 MB, 2683 files batched, 1001 (2002) added so far); re-opening (prior size: 6121.7 KB)
+0271.912 (0) The time we have been running (271.9) is approaching the resumption interval (300) - increasing resumption interval to 302
+0272.018 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: size is now: 11.40 MB
+0272.020 (0) The time we have been running (272) is approaching the resumption interval (302) - increasing resumption interval to 303
+0272.021 (0) The scheduled resumption is within 45 seconds - will reschedule
+0272.022 (0) Rescheduling resumption 1: moving to 348 seconds from now (1615269094)
+0272.023 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 303 + 45 = 348
+0272.026 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2100 files added (on-disk size: 11678 KB)
+0272.029 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2200 files added (on-disk size: 11678 KB)
+0272.032 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2300 files added (on-disk size: 11678 KB)
+0272.035 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2400 files added (on-disk size: 11678 KB)
+0272.038 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2500 files added (on-disk size: 11678 KB)
+0272.042 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: 2600 files added (on-disk size: 11678 KB)
+0294.483 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip.tmp: size is now: 15.70 MB
+0294.612 (0) Created themes zip (0) - 16071.8 KB in 58.2 s (276.3 KB/s) (sha1: bf929d803dae818bbee1ce54a9d004e0173c9841, sha256: 948ee8599cfcb6bc670c06a8d5b3d9033b51f1b8af1c8b3ff34db5274877f551)
+0294.614 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0294.614 (0) Looking for candidates to backup in: /home/fant2891/public_html/demo/wp-content/uploads
+0294.614 (0) finding files: wpcf7_uploads: adding to list (1)
+0294.615 (0) finding files: stm_fonts: adding to list (2)
+0294.615 (0) finding files: js_composer: adding to list (3)
+0294.615 (0) finding files: stm_uploads: adding to list (4)
+0294.616 (0) finding files: 2018: adding to list (5)
+0294.616 (0) finding files: revslider: adding to list (6)
+0294.616 (0) finding files: 2021: adding to list (7)
+0294.617 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0294.680 (0) Total entities for the zip file: 54 directories, 668 files (0 skipped as non-modified), 16.2 MB
+0294.684 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0294.687 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0294.690 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0294.693 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0294.696 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0294.699 (0) Zip: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0321.494 (0) The time we have been running (321.5) is approaching the resumption interval (348) - increasing resumption interval to 352
+0321.629 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip.tmp: size is now: 11.40 MB
+0321.726 (0) Created uploads zip (0) - 11723.7 KB in 27.1 s (432.9 KB/s) (sha1: 4a130a4f7383e1493349fbc37c23ccf1f7ea45eb, sha256: 2013994d9b843033eef5b694905233f8ad7b17397c6b54ae5d9b2ee8c6850cfe)
+0321.727 (0) Beginning backup of other directories found in the content directory (index: 0)
+0321.728 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0321.728 (0) Looking for candidates to backup in: /home/fant2891/public_html/demo/wp-content
+0321.728 (0) finding files: plugins: skipping: this is the plugins directory
+0321.729 (0) finding files: upgrade: skipping: excluded by options
+0321.729 (0) finding files: themes: skipping: this is the themes directory
+0321.729 (0) finding files: uploads: skipping: this is the uploads directory
+0321.730 (0) finding files: updraft: skipping: this is the updraft directory
+0321.730 (0) finding files: index.php: adding to list (1)
+0321.758 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0321.764 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-others.zip.tmp: size is now: 0.00 MB
+0321.767 (0) Created others zip (0) - 0.2 KB in 0 s (18.8 KB/s) (sha1: 1173b8291f104aaa6ed333fd2a3ae0bdd4c8350f, sha256: 415dc7bd25a5ee7b4b918f37d6b9c02e4f8ebdcaf8106c2fccf96537b610431b)
+0321.770 (0) Saving backup status to database (elements: 8)
+0321.771 (0) Beginning creation of database dump (WordPress DB)
+0321.772 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0321.773 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0321.785 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wpvv_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nC (truncated - 1128 bytes total)
+0321.786 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0321.789 (0) Table wpvv_options: Total expected rows (approximate): 271
+0322.456 (0) Table wpvv_options: Rows added in this batch (next record: 536): 270 (uncompressed bytes in this segment=1079027) in 0.67 seconds
+0322.458 (0) The time we have been running (322.5) is approaching the resumption interval (352) - increasing resumption interval to 353
+0322.460 (0) Table wpvv_options: finishing file(s) (2, 95.2 KB)
+0322.461 (0) Table wpvv_users: Total expected rows (approximate): 0
+0322.463 (0) Table wpvv_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1160) in 0.00 seconds
+0322.465 (0) Table wpvv_users: finishing file(s) (2, 0.6 KB)
+0322.466 (0) Table wpvv_usermeta: Total expected rows (approximate): 18
+0322.467 (0) Table wpvv_usermeta: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=2484) in 0.00 seconds
+0322.469 (0) Table wpvv_usermeta: finishing file(s) (2, 1.3 KB)
+0322.470 (0) Table wpvv_commentmeta: Total expected rows (approximate): 0
+0322.471 (0) Table wpvv_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=612) in 0.00 seconds
+0322.473 (0) Table wpvv_commentmeta: finishing file(s) (2, 0.4 KB)
+0322.474 (0) Table wpvv_comments: Total expected rows (approximate): 0
+0322.475 (0) Table wpvv_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1861) in 0.00 seconds
+0322.477 (0) Table wpvv_comments: finishing file(s) (2, 0.7 KB)
+0322.478 (0) Table wpvv_links: Total expected rows (approximate): 0
+0322.479 (0) Table wpvv_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1005) in 0.00 seconds
+0322.480 (0) Table wpvv_links: finishing file(s) (2, 0.4 KB)
+0322.481 (0) Table wpvv_postmeta: Total expected rows (approximate): 462
+0322.489 (0) Table wpvv_postmeta: Rows added in this batch (next record: 586): 488 (uncompressed bytes in this segment=297132) in 0.01 seconds
+0322.491 (0) Table wpvv_postmeta: finishing file(s) (2, 41.5 KB)
+0322.493 (0) Table wpvv_posts: Total expected rows (approximate): 72
+0322.499 (0) Table wpvv_posts: Rows added in this batch (next record: 16000027): 81 (uncompressed bytes in this segment=295835) in 0.01 seconds
+0322.501 (0) Table wpvv_posts: finishing file(s) (2, 23.6 KB)
+0322.502 (0) Table wpvv_term_relationships: Total expected rows (approximate): 13
+0322.504 (0) Table wpvv_term_relationships: Rows added in this batch (next record: 100000): 11 (uncompressed bytes in this segment=845) in 0.00 seconds
+0322.506 (0) Table wpvv_term_relationships: finishing file(s) (2, 0.4 KB)
+0322.507 (0) Table wpvv_term_taxonomy: Total expected rows (approximate): 29
+0322.508 (0) Table wpvv_term_taxonomy: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=1772) in 0.00 seconds
+0322.511 (0) Table wpvv_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0322.512 (0) Table wpvv_termmeta: Total expected rows (approximate): 0
+0322.513 (0) Table wpvv_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=585) in 0.00 seconds
+0322.515 (0) Table wpvv_termmeta: finishing file(s) (2, 0.3 KB)
+0322.516 (0) Table wpvv_terms: Total expected rows (approximate): 29
+0322.517 (0) Table wpvv_terms: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=1563) in 0.00 seconds
+0322.519 (0) Table wpvv_terms: finishing file(s) (2, 0.7 KB)
+0322.520 (0) Table wpvv_revslider_css: Total expected rows (approximate): 109
+0322.522 (0) Table wpvv_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=91082) in 0.00 seconds
+0322.524 (0) Table wpvv_revslider_css: finishing file(s) (2, 4.9 KB)
+0322.525 (0) Table wpvv_revslider_css_bkp: Total expected rows (approximate): 47
+0322.527 (0) Table wpvv_revslider_css_bkp: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=15411) in 0.00 seconds
+0322.529 (0) Table wpvv_revslider_css_bkp: finishing file(s) (2, 1.8 KB)
+0322.530 (0) Table wpvv_revslider_layer_animations: Total expected rows (approximate): 0
+0322.531 (0) Table wpvv_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=563) in 0.00 seconds
+0322.533 (0) Table wpvv_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0322.534 (0) Table wpvv_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0322.535 (0) Table wpvv_revslider_layer_animations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=587) in 0.00 seconds
+0322.537 (0) Table wpvv_revslider_layer_animations_bkp: finishing file(s) (2, 0.3 KB)
+0322.538 (0) Table wpvv_revslider_navigations: Total expected rows (approximate): 0
+0322.539 (0) Table wpvv_revslider_navigations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=640) in 0.00 seconds
+0322.541 (0) Table wpvv_revslider_navigations: finishing file(s) (2, 0.3 KB)
+0322.542 (0) Table wpvv_revslider_navigations_bkp: Total expected rows (approximate): 0
+0322.544 (0) Table wpvv_revslider_navigations_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=664) in 0.00 seconds
+0322.546 (0) Table wpvv_revslider_navigations_bkp: finishing file(s) (2, 0.3 KB)
+0322.547 (0) Table wpvv_revslider_sliders: Total expected rows (approximate): 0
+0322.548 (0) Table wpvv_revslider_sliders: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=9145) in 0.00 seconds
+0322.550 (0) Table wpvv_revslider_sliders: finishing file(s) (2, 3 KB)
+0322.551 (0) Table wpvv_revslider_sliders_bkp: Total expected rows (approximate): 0
+0322.552 (0) Table wpvv_revslider_sliders_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=616) in 0.00 seconds
+0322.554 (0) Table wpvv_revslider_sliders_bkp: finishing file(s) (2, 0.3 KB)
+0322.555 (0) Table wpvv_revslider_slides: Total expected rows (approximate): 0
+0322.557 (0) Table wpvv_revslider_slides: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1769) in 0.00 seconds
+0322.558 (0) Table wpvv_revslider_slides: finishing file(s) (2, 0.8 KB)
+0322.560 (0) Table wpvv_revslider_slides_bkp: Total expected rows (approximate): 0
+0322.561 (0) Table wpvv_revslider_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.00 seconds
+0322.562 (0) Table wpvv_revslider_slides_bkp: finishing file(s) (2, 0.3 KB)
+0322.563 (0) Table wpvv_revslider_static_slides: Total expected rows (approximate): 0
+0322.565 (0) Table wpvv_revslider_static_slides: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=683) in 0.00 seconds
+0322.567 (0) Table wpvv_revslider_static_slides: finishing file(s) (2, 0.4 KB)
+0322.568 (0) Table wpvv_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0322.569 (0) Table wpvv_revslider_static_slides_bkp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=604) in 0.00 seconds
+0322.571 (0) Table wpvv_revslider_static_slides_bkp: finishing file(s) (2, 0.3 KB)
+0322.571 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_options.table.tmpr537.gz (1/24): adding to final database dump
+0322.589 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_options.table.gz (2/24): adding to final database dump
+0322.589 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_users.table.tmpr2.gz (3/24): adding to final database dump
+0322.590 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_users.table.gz (4/24): adding to final database dump
+0322.590 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_usermeta.table.tmpr24.gz (5/24): adding to final database dump
+0322.591 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_usermeta.table.gz (6/24): adding to final database dump
+0322.591 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_commentmeta.table.tmpr0.gz (7/24): adding to final database dump
+0322.592 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_commentmeta.table.gz (8/24): adding to final database dump
+0322.592 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_comments.table.tmpr2.gz (9/24): adding to final database dump
+0322.593 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_comments.table.gz (10/24): adding to final database dump
+0322.593 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_links.table.tmpr0.gz (11/24): adding to final database dump
+0322.594 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_links.table.gz (12/24): adding to final database dump
+0322.594 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_postmeta.table.tmpr587.gz (13/24): adding to final database dump
+0322.600 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_postmeta.table.gz (14/24): adding to final database dump
+0322.601 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_posts.table.tmpr16000028.gz (15/24): adding to final database dump
+0322.605 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_posts.table.gz (16/24): adding to final database dump
+0322.606 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_term_relationships.table.tmpr100001.gz (17/24): adding to final database dump
+0322.606 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_term_relationships.table.gz (18/24): adding to final database dump
+0322.607 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_term_taxonomy.table.tmpr30.gz (19/24): adding to final database dump
+0322.607 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_term_taxonomy.table.gz (20/24): adding to final database dump
+0322.607 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_termmeta.table.tmpr0.gz (21/24): adding to final database dump
+0322.608 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_termmeta.table.gz (22/24): adding to final database dump
+0322.608 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_terms.table.tmpr30.gz (23/24): adding to final database dump
+0322.608 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_terms.table.gz (24/24): adding to final database dump
+0322.609 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_css.table.tmpr110.gz (25/24): adding to final database dump
+0322.610 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_css.table.gz (26/24): adding to final database dump
+0322.610 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_css_bkp.table.tmpr48.gz (27/24): adding to final database dump
+0322.611 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_css_bkp.table.gz (28/24): adding to final database dump
+0322.611 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_layer_animations.table.tmpr0.gz (29/24): adding to final database dump
+0322.612 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_layer_animations.table.gz (30/24): adding to final database dump
+0322.612 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_layer_animations_bkp.table.tmpr0.gz (31/24): adding to final database dump
+0322.612 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_layer_animations_bkp.table.gz (32/24): adding to final database dump
+0322.613 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_navigations.table.tmpr0.gz (33/24): adding to final database dump
+0322.613 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_navigations.table.gz (34/24): adding to final database dump
+0322.614 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_navigations_bkp.table.tmpr0.gz (35/24): adding to final database dump
+0322.614 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_navigations_bkp.table.gz (36/24): adding to final database dump
+0322.614 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_sliders.table.tmpr2.gz (37/24): adding to final database dump
+0322.615 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_sliders.table.gz (38/24): adding to final database dump
+0322.616 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_sliders_bkp.table.tmpr0.gz (39/24): adding to final database dump
+0322.616 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_sliders_bkp.table.gz (40/24): adding to final database dump
+0322.616 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_slides.table.tmpr2.gz (41/24): adding to final database dump
+0322.617 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_slides.table.gz (42/24): adding to final database dump
+0322.617 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_slides_bkp.table.tmpr0.gz (43/24): adding to final database dump
+0322.617 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_slides_bkp.table.gz (44/24): adding to final database dump
+0322.618 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_static_slides.table.tmpr2.gz (45/24): adding to final database dump
+0322.618 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_static_slides.table.gz (46/24): adding to final database dump
+0322.618 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_static_slides_bkp.table.tmpr0.gz (47/24): adding to final database dump
+0322.619 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db-table-wpvv_revslider_static_slides_bkp.table.gz (48/24): adding to final database dump
+0322.621 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db.gz: finished writing out complete database file (144 KB)
+0322.626 (0) Total database tables backed up: 24 (backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db.gz, size: 177071, sha1: 1804473ae6691a956c3aed9b4a47e4f5cfd0ffd5, sha256: a765a14f6ed6a7ed7b53d1581beb309a9f2fee49acabbe522fbbd5ec534891e0)
+0322.629 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0322.629 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0322.629 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0322.630 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-others.zip: others: This file has not yet been successfully uploaded: will queue
+0322.630 (0) backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db.gz: db: This file has not yet been successfully uploaded: will queue
+0322.630 (0) Saving backup history. Total backup size: 62.3 MB
+0322.631 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0322.633 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0322.633 (0) No remote despatch: user chose no remote backup service
+0322.633 (0) Recording as successfully uploaded: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-plugins.zip
+0322.634 (0) Recording as successfully uploaded: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-themes.zip
+0322.635 (0) Recording as successfully uploaded: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-uploads.zip
+0322.636 (0) Recording as successfully uploaded: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-others.zip
+0322.637 (0) Recording as successfully uploaded: backup_2021-03-09-0541_Demo_Site_d88d33c3dfaf-db.gz
+0322.639 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0322.639 (0) Number of backup sets in history: 1; groups (db): 1
+0322.640 (0) Examining (for databases) backup set with group_id=0, nonce=d88d33c3dfaf, datestamp=1615268474 (Mar 09 2021 05:41:14)
+0322.640 (0) This backup set is the backup set just made, so will not be deleted.
+0322.640 (0) Number of backup sets in history: 1; groups (files): 1
+0322.640 (0) Examining (for files) backup set with nonce=d88d33c3dfaf, datestamp=1615268474 (Mar 09 2021 05:41:14)
+0322.640 (0) This backup set is the backup set just made, so will not be deleted.
+0322.641 (0) This backup set is the backup set just made, so will not be deleted.
+0322.641 (0) This backup set is the backup set just made, so will not be deleted.
+0322.641 (0) This backup set is the backup set just made, so will not be deleted.
+0322.641 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0322.641 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0322.642 (0) Resume backup (d88d33c3dfaf, 0): finish run
+0322.643 (0) Decremented the semaphore (fd) by 1
+0322.644 (0) Semaphore (fd) unlocked
+0322.644 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0322.646 (0) No email will/can be sent - the user has not configured an email address.
+0322.646 (0) The backup apparently succeeded and is now complete

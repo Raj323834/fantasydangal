@@ -1,0 +1,368 @@
+[16-Jul-2021 15:01:34 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[16-Jul-2021 15:01:34 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[16-Jul-2021 15:01:34 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[16-Jul-2021 15:01:34 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[16-Jul-2021 15:01:34 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[29-Jul-2021 14:22:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-Jul-2021 15:22:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/fant2891/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/block-patterns.php on line 9
+[29-Jul-2021 15:24:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/fant2891/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/block-patterns.php on line 9
+[29-Jul-2021 15:30:41 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/cache.php on line 12
+[29-Jul-2021 15:30:41 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/cache.php on line 12
+[29-Jul-2021 15:30:41 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/cache.php on line 12
+[29-Jul-2021 15:30:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/cache.php on line 12
+[29-Jul-2021 15:35:22 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-IXR.php on line 42
+[29-Jul-2021 15:35:22 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-IXR.php on line 42
+[29-Jul-2021 15:35:22 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-IXR.php on line 42
+[29-Jul-2021 15:35:22 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-IXR.php on line 42
+[29-Jul-2021 15:35:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-feed.php on line 10
+[29-Jul-2021 15:45:13 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-http.php on line 11
+[29-Jul-2021 15:45:13 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-http.php on line 11
+[29-Jul-2021 15:45:13 America/New_York] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-http.php on line 11
+[29-Jul-2021 15:45:13 America/New_York] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-http.php on line 11
+[29-Jul-2021 15:45:13 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-http.php on line 11
+[29-Jul-2021 15:45:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-json.php on line 2
+[29-Jul-2021 15:46:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-oembed.php on line 12
+[29-Jul-2021 16:03:39 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jul-2021 16:03:39 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jul-2021 16:03:39 America/New_York] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jul-2021 16:03:39 America/New_York] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jul-2021 16:03:39 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-simplepie.php on line 5
+[29-Jul-2021 16:03:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-smtp.php on line 6
+[29-Jul-2021 16:03:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-snoopy.php on line 6
+[29-Jul-2021 16:03:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[29-Jul-2021 16:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-category.php on line 17
+[29-Jul-2021 16:09:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-comment.php on line 17
+[29-Jul-2021 16:09:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-Jul-2021 16:09:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-page.php on line 17
+[29-Jul-2021 16:09:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/fant2891/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-control.php on line 701
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-control.php on line 701
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-customize-control.php on line 701
+[29-Jul-2021 16:12:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-customize-control.php on line 701
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[29-Jul-2021 16:12:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-customize-panel.php on line 394
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-section.php on line 396
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-section.php on line 396
+[29-Jul-2021 16:12:39 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-customize-section.php on line 396
+[29-Jul-2021 16:12:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-customize-section.php on line 396
+[29-Jul-2021 16:25:43 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[29-Jul-2021 16:25:43 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[29-Jul-2021 16:25:43 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[29-Jul-2021 16:25:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-customize-setting.php on line 963
+[29-Jul-2021 16:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[29-Jul-2021 16:27:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/fant2891/public_html/wp-includes/class-wp-http-ixr-client.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-http-ixr-client.php on line 8
+[29-Jul-2021 16:27:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Requests_Hooks' not found in /home/fant2891/public_html/wp-includes/class-wp-http-requests-hooks.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-http-requests-hooks.php on line 17
+[29-Jul-2021 16:28:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/fant2891/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[29-Jul-2021 16:28:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Image_Editor' not found in /home/fant2891/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[29-Jul-2021 16:28:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Image_Editor' not found in /home/fant2891/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[29-Jul-2021 16:49:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie_File' not found in /home/fant2891/public_html/wp-includes/class-wp-simplepie-file.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-simplepie-file.php on line 20
+[29-Jul-2021 16:49:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Sanitize' not found in /home/fant2891/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[29-Jul-2021 16:49:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer_inline' not found in /home/fant2891/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[29-Jul-2021 16:49:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Text_Diff_Renderer' not found in /home/fant2891/public_html/wp-includes/class-wp-text-diff-renderer-table.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[29-Jul-2021 16:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Session_Tokens' not found in /home/fant2891/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[29-Jul-2021 16:55:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/fant2891/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Jul-2021 16:56:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/fant2891/public_html/wp-includes/class.wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class.wp-styles.php on line 18
+[29-Jul-2021 16:56:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/fant2891/public_html/wp-includes/class.wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/class.wp-scripts.php on line 18
+[29-Jul-2021 17:03:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/date.php on line 11
+[29-Jul-2021 17:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/embed-template.php on line 11
+[29-Jul-2021 17:03:48 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/default-widgets.php on line 11
+[29-Jul-2021 17:03:48 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/default-widgets.php on line 11
+[29-Jul-2021 17:03:48 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/default-widgets.php on line 11
+[29-Jul-2021 17:03:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/default-widgets.php on line 11
+[29-Jul-2021 17:03:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/fant2891/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/feed-atom-comments.php on line 8
+[29-Jul-2021 17:03:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/fant2891/public_html/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/default-filters.php on line 17
+[29-Jul-2021 17:03:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/fant2891/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/feed-atom.php on line 8
+[29-Jul-2021 17:03:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/fant2891/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/feed-rdf.php on line 8
+[29-Jul-2021 17:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/fant2891/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/feed-rss.php on line 8
+[29-Jul-2021 17:13:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/fant2891/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Jul-2021 17:13:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/fant2891/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/feed-rss2.php on line 8
+[29-Jul-2021 17:13:50 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[29-Jul-2021 17:13:50 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[29-Jul-2021 17:13:50 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[29-Jul-2021 17:13:50 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[29-Jul-2021 17:13:50 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/functions.php on line 8
+[29-Jul-2021 18:57:04 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/wp-diff.php on line 13
+[29-Jul-2021 18:57:04 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/wp-diff.php on line 13
+[29-Jul-2021 18:57:04 America/New_York] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/wp-diff.php on line 13
+[29-Jul-2021 18:57:04 America/New_York] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/wp-diff.php on line 13
+[29-Jul-2021 18:57:04 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/wp-diff.php on line 13
+[29-Jul-2021 18:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/fant2891/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/vars.php on line 23
+[29-Jul-2021 18:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/fant2891/public_html/wp-includes/update.php:959
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/update.php on line 959
+[30-Jul-2021 18:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/fant2891/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/locale.php on line 11
+[05-Aug-2021 03:31:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[05-Aug-2021 07:22:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[12-Aug-2021 16:27:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 08:14:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 16:41:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[23-Aug-2021 15:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[23-Aug-2021 18:11:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[24-Aug-2021 07:15:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[24-Aug-2021 21:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[04-Sep-2021 13:07:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[05-Sep-2021 15:59:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[09-Sep-2021 18:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[10-Sep-2021 17:06:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[13-Sep-2021 13:12:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[14-Sep-2021 15:33:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_[16-Sep-2021 19:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[17-Sep-2021 10:11:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[21-Sep-2021 13:03:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[26-Sep-2021 14:57:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[01-Oct-2021 07:34:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[08-Oct-2021 02:27:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[11-Oct-2021 22:26:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[16-Oct-2021 14:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[18-Oct-2021 15:47:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[20-Oct-2021 15:28:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[23-Oct-2021 22:34:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[31-Oct-2021 21:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[06-Nov-2021 19:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[08-Nov-2021 08:01:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[10-Nov-2021 21:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[14-Nov-2021 10:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[04-Apr-2022 13:51:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 13:51:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 13:51:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 13:51:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 13:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[11-Apr-2022 15:01:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 15:01:50 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 15:01:50 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 15:01:50 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[11-Apr-2022 15:02:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[19-Apr-2022 11:16:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 11:16:38 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 11:16:38 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 11:16:38 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2022 11:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
+[22-Apr-2022 16:05:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[22-Apr-2022 16:05:57 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[22-Apr-2022 16:05:57 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[22-Apr-2022 16:05:57 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fant2891/public_html/wp-includes/class-wp-http.php on line 11
+[22-Apr-2022 16:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/fant2891/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/fant2891/public_html/wp-includes/template-canvas.php on line 12
